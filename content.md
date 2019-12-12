@@ -31,7 +31,7 @@ XYZ is the department that handles all editorial and animation needs.
 
 ---
 
-<iframe src="https://drive.google.com/file/d/1rSZ4Xjn5pGmAsbjYUwGUKre3FqH7xEro/preview" width="1000" height="500"></iframe>
+<div class="g-signin2" data-onsuccess="onSignIn" data-prompt="select_account"> <iframe src="https://drive.google.com/file/d/1rSZ4Xjn5pGmAsbjYUwGUKre3FqH7xEro/preview" width="1000" height="500"></iframe> <div>
 <br>
  &darr;*
 
