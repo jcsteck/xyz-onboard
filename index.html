@@ -22,8 +22,7 @@
   </head>
 
   <body>
-    <div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark"></div>.
-    <button onclick="onSignInClicked()">Sign in with button onClick</button>
+    <div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark"></div>
     <script>
       function onLibraryLoaded() {
         gapi.load('auth2', function() {
@@ -43,7 +42,21 @@
           })
         })
       }
+
     </script>
+    <button onclick="onSignInClicked()">
+      Sign in with button onClick
+    </button>
+
+    <script>
+      function onSignIn(googleUser) {
+    if(googleUser.getHostedDomain() !== 'mysite.com') {
+        // show a Not Authorized message
+    } else {
+        // show the users dashboard
+    }
+}
+</script>
     <script>
       function onSignIn(googleUser) {
         // Useful data for your client-side scripts:
