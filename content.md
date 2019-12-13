@@ -17,7 +17,7 @@
 
 <!-- .slide: background-color="media/img/aframe.jpg" -->
 
-*Don’t worry, you still work at A&L.
+*Don’t worry, you still work at A&L. <br>
 XYZ is the department that handles all editorial and animation needs. <br>►
 
 ------
@@ -35,8 +35,24 @@ XYZ is the department that handles all editorial and animation needs. <br>►
  ▼
 
 ---
-<div><iframe style="display: block" src="https://drive.google.com/file/d/1JCdbIJ-PDI1fXRFTwyrPHX_H26X3W5Xg/preview" width="560" height="560"></iframe>
-<iframe style="display: block" src="https://drive.google.com/file/d/1JCdbIJ-PDI1fXRFTwyrPHX_H26X3W5Xg/preview" width="560" height="560"></iframe> </div>
+▲
+<br><br>
+    <iframe style="display: inline-block" src="https://drive.google.com/file/d/1JCdbIJ-PDI1fXRFTwyrPHX_H26X3W5Xg/preview" width="1080" height="560"></iframe>
+    <br><br>
+     ▼
 
+
+
+---
+▲
+<br><br>
+<iframe src="https://drive.google.com/file/d/1JDzY7a5hD9vyVtGDIef-zKPwdhgsXylm/preview" width="1080" height="560"></iframe>
 <br><br>
  ▼
+
+ ---
+ ▲
+ <br><br>
+ <iframe src="https://drive.google.com/file/d/1JKkDZMl275z5hWKFQDmRr8x-kzaq-hdh/preview" width="1080" height="560"></iframe>
+ <br><br>
+  ▼
