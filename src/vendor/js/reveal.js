@@ -39,11 +39,11 @@
 
 			// The "normal" size of the presentation, aspect ratio will be preserved
 			// when the presentation is scaled to fit different resolutions
-			width: 960,
-			height: 700,
+			width: 1920,
+			height: 1080,
 
 			// Factor of the display size that should remain empty around the content
-			margin: 0.1,
+			margin: 0.2,
 
 			// Bounds for smallest/largest possible scale to apply to content
 			minScale: 0.2,
@@ -59,7 +59,7 @@
 			slideNumber: false,
 
 			// Push each slide change to the browser history
-			history: false,
+			history: true,
 
 			// Enable keyboard shortcuts for navigation
 			keyboard: true,
@@ -123,7 +123,7 @@
 			hideAddressBar: true,
 
 			// Opens links in an iframe preview overlay
-			previewLinks: false,
+			previewLinks: true,
 
 			// Exposes the reveal.js API through window.postMessage
 			postMessage: true,
@@ -154,7 +154,7 @@
 			parallaxBackgroundVertical: null,
 
 			// Number of slides away from the current that are visible
-			viewDistance: 3,
+			viewDistance: 4,
 
 			// Script dependencies to load
 			dependencies: []
@@ -2491,7 +2491,7 @@
 
 			// Limit view distance on weaker devices
 			if( isMobileDevice ) {
-				viewDistance = isOverview() ? 6 : 2;
+				viewDistance = isOverview() ? 4 : 2;
 			}
 
 			// All slides need to be visible when exporting to PDF
