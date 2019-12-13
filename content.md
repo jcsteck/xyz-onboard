@@ -4,6 +4,7 @@
   <img id="main-logo" src="media/img/LOGOal.png"><br>
   <h3>XYZ Roadmap: Best Practices</h3>
   <script src="https://apis.google.com/js/platform.js" async defer></script>
+►
 
 
 </div>
@@ -17,17 +18,11 @@
 <!-- .slide: background-color="media/img/aframe.jpg" -->
 
 *Don’t worry, you still work at A&L.
-XYZ is the department that handles all editorial and animation needs.
-
-
-**&rarr;**
+XYZ is the department that handles all editorial and animation needs. <br>►
 
 ------
 
-### Well what has A&L and XYZ made, you ask?
-
-
-**&darr;**
+### Well what has A&L and XYZ made, you ask? <br> ▼
 
 
 <!-- Video Samples. -->
@@ -35,9 +30,13 @@ XYZ is the department that handles all editorial and animation needs.
 
 ---
 
-<div class="g-signin2" data-onsuccess="onSignIn" data-prompt="select_account"> <iframe src="https://drive.google.com/file/d/1rSZ4Xjn5pGmAsbjYUwGUKre3FqH7xEro/preview" width="1000" height="500"></iframe> <div>
-<br>
- &darr;*
+<iframe src="https://drive.google.com/file/d/1JJC4MYa8IE7WrcLGnFnTpOFmz5AtEeAf/preview" width="1080" height="560"></iframe>
+<br><br>
+ ▼
 
 ---
-END of test!
+<div><iframe style="display: block" src="https://drive.google.com/file/d/1JCdbIJ-PDI1fXRFTwyrPHX_H26X3W5Xg/preview" width="560" height="560"></iframe>
+<iframe style="display: block" src="https://drive.google.com/file/d/1JCdbIJ-PDI1fXRFTwyrPHX_H26X3W5Xg/preview" width="560" height="560"></iframe> </div>
+
+<br><br>
+ ▼

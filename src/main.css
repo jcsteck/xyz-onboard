@@ -16,6 +16,9 @@ body {
   background: -webkit-radial-gradient(#000000, #000000, #000000);
   background-color: #000000;
 }
+.navig {
+  font-size: 500%;
+}
 
 html:-webkit-full-screen-ancestor,
 html:-moz-full-screen-ancestor {
@@ -550,7 +553,7 @@ span.icon {
   background: url('/identity/sign-in/g-normal.png') transparent 5px 50% no-repeat;
   display: inline-block;
   vertical-align: middle;
-  width: 4%;
+  width: 4.5%;
   height: 42px;
 }
 span.buttonText {

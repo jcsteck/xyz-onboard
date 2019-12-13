@@ -1145,7 +1145,7 @@ html:-moz-full-screen-ancestor {
 	transition: all 0.3s ease;
 }
 	.reveal .overlay.visible {
-		opacity: 1;
+		opacity: 0;
 		visibility: visible;
 	}
 
