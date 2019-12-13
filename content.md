@@ -3,8 +3,12 @@
 <div class="talk-title">
   <img id="main-logo" src="media/img/LOGOal.png"><br>
   <h3>XYZ Roadmap: Best Practices</h3>
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+
 
 </div>
+
+
 
 ------
 

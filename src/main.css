@@ -520,10 +520,46 @@ div.slide__boilerplate + video {
 }
 
 #main-logo {
+  position: relative;
+  align-items: center;
   width:30%;
   align-content: center;
-  padding-bottom:4%
+  margin-bottom:4%
 }
 .talk-title {
   bottom:20%;
+}
+#customBtn {
+  position: relative;
+    margin-bottom: 10%;
+
+  background: none;
+  color: #ffffff;
+  width: 190px;
+  border-radius: 0px;
+  white-space: nowrap;
+}
+#customBtn:hover {
+  cursor: pointer;
+}
+span.label {
+  font-family: serif;
+  font-weight: normal;
+}
+span.icon {
+  background: url('/identity/sign-in/g-normal.png') transparent 5px 50% no-repeat;
+  display: inline-block;
+  vertical-align: middle;
+  width: 4%;
+  height: 42px;
+}
+span.buttonText {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 0%;
+  padding-right: 10%;
+  font-size: 100%;
+  /* Use the Roboto font that is loaded in the <head> */
+  font-family: 'Gupter', serif;
+  color: #fffff;
 }
