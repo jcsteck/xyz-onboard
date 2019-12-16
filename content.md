@@ -96,7 +96,7 @@ Home Alone with Joe Pesci
 <div class="column">
 <ul class="item-list" style="list-style-type:none">
 <a href="#/5"><li class="list-text">  Software Versions  <br> <br> </li> </a>
-<a href="#/5"><li class="list-text">  Folder Structure | Overview  <br><br> </li> </a>
+<a href="#/7"><li class="list-text">  Folder Structure | Overview  <br><br> </li> </a>
 <a href="#/5"><li class="list-text">  First Steps in Premiere  <br><br> </li> </a>
 <a href="#/5"><li class="list-text">  Premiere Exports and File Sharing  <br> <br></li> </a>
 </ul>
@@ -117,10 +117,10 @@ Home Alone with Joe Pesci
 ►
 </p>
 ------
-### We're a team. <p style="display:inline" class="fragment">And when we update,</p><p style="display:inline" class="fragment"> we update as a team.</p>
+### We're a team. <p style="display:inline" class="fragment" data-fragment-index="1">And when we update,</p><p style="display:inline" class="fragment" data-fragment-index="2"> we update as a team.</p>
 
 
-<p class="fragment">
+<p class="fragment" data-fragment-index="2">
 We’re currently working in
 <b>Version 13.1.2 of Premiere and Version 16.1.1 of After Effects. </b> <br>
 All of these are under the Creative Cloud 2019 Builds.<br>
@@ -132,5 +132,23 @@ For a seamless experience/file quality continuity/overall good time please do no
 <br>
 <img id="gif-1" class="fragment" width="50%" data-src="media/img/tenor.gif">
 ------
+### Server Structure & Overview
+<p style="margin-top:3%">
+▼
+</p>
+---
 ### Starting a New Project
-Projects and media can be accessed by any machine connected to the server
+Projects and media can be accessed by any machine connected to the server.
+
+To keep things consistent, we all use/copy a template project folder, which has sub-folders where all of your projects, assets, media, exports, etc. will live.
+
+When starting a new project, simply copy the entire 2019_AL_Project Structure folder (with all sub-folders) and paste into the relevant folder for your client/project. The Folder structure is on the ALCC server (see image)
+
+<img id="gif-1" class="fragment" width="50%" data-src="media/img/03project.png" data-fragment-index="1" >
+<p class="fragment" data-fragment-index="1">
+In “03_Project” there are both AfterEffects and PremierePro folders which have template projects (BLANK_PROJECT) that you can rename to start your project edit or animation.<br><br>
+
+▼
+
+
+</p>
