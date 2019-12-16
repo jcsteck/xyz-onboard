@@ -114,7 +114,7 @@
 			autoSlideMethod: null,
 
 			// Enable slide navigation via mouse wheel
-			mouseWheel: false,
+			mouseWheel: true,
 
 			// Apply a 3D roll to links on hover
 			rollingLinks: false,
@@ -2487,11 +2487,11 @@
 
 			// The number of steps away from the present slide that will
 			// be visible
-			var viewDistance = isOverview() ? 2 : config.viewDistance;
+			var viewDistance = isOverview() ? 3 : config.viewDistance;
 
 			// Limit view distance on weaker devices
 			if( isMobileDevice ) {
-				viewDistance = isOverview() ? 4 : 2;
+				viewDistance = isOverview() ? 2 : 2;
 			}
 
 			// All slides need to be visible when exporting to PDF
