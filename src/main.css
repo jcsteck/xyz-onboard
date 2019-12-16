@@ -617,3 +617,32 @@ span.buttonText {
     -ms-flex-item-align: auto;
     align-self: auto;
 }
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.item-list {
+  align-items: center;
+  align-content: center;
+  list-style-type: none;
+
+
+}
+.list-text {
+
+  align:center;
+  line-height: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.link-list {
+  line-height: 200px;
+}
