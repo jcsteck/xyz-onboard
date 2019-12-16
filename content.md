@@ -86,12 +86,12 @@ Home Alone with Joe Pesci
 </p>
 ------
 ### Already know what you need?
-<p class="fragment">
+<p class="fragment" data-fragment-index="1">
 (familiar faces can skip the line using the links below)
 </p>
 
 <br><br><br>
-
+<div class="fragment" data-fragment-index="2">
 <div class="row">
 <div class="column">
 <ul class="item-list" style="list-style-type:none">
@@ -100,6 +100,7 @@ Home Alone with Joe Pesci
 <a href="#/5"><li class="list-text">  First Steps in Premiere  <br><br> </li> </a>
 <a href="#/5"><li class="list-text">  Premiere Exports and File Sharing  <br> <br></li> </a>
 </ul>
+
 </div>
 <div class="column">
 <ul class="item-list" style="list-style-type:none">
@@ -111,14 +112,25 @@ Home Alone with Joe Pesci
 </ul>
 </div>
 </div>
+</div>
+<p class="fragment" data-fragment-index="2">
+►
+</p>
 ------
-### We're a team. And when we update, we update as a team.
-We’re a team. And when we update, we update as a team.
+### We're a team. <p style="display:inline" class="fragment">And when we update,</p><p style="display:inline" class="fragment"> we update as a team.</p>
 
+
+<p class="fragment">
 We’re currently working in
-Version 13.1.2 of Premiere and Version 16.1.1 of After Effects.
-All of these are under the Creative Cloud 2019 Builds.
+<b>Version 13.1.2 of Premiere and Version 16.1.1 of After Effects. </b> <br>
+All of these are under the Creative Cloud 2019 Builds.<br>
 
 For a seamless experience/file quality continuity/overall good time please do not update to a newer version without getting the official go-ahead from the XYZ producer.
+</p>
 ------
 ### So XYZ operates using this “thing” called the server…
+<br>
+<img id="gif-1" class="fragment" width="50%" data-src="media/img/tenor.gif">
+------
+### Starting a New Project
+Projects and media can be accessed by any machine connected to the server
