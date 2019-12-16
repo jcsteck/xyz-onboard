@@ -95,19 +95,19 @@ Home Alone with Joe Pesci
 <div class="row">
 <div class="column">
 <ul class="item-list" style="list-style-type:none">
-<a href="#/5"><li class="list-text">  Software Versions  <br> </li> </a>
-<a href="#/5"><li class="list-text">  Folder Structure | Overview  <br> </li> </a>
-<a href="#/5"><li class="list-text">  First Steps in Premiere  <br> </li> </a>
-<a href="#/5"><li class="list-text">  Premiere Exports and File Sharing  <br> </li> </a>
+<a href="#/5"><li class="list-text">  Software Versions  <br> <br> </li> </a>
+<a href="#/5"><li class="list-text">  Folder Structure | Overview  <br><br> </li> </a>
+<a href="#/5"><li class="list-text">  First Steps in Premiere  <br><br> </li> </a>
+<a href="#/5"><li class="list-text">  Premiere Exports and File Sharing  <br> <br></li> </a>
 </ul>
 </div>
 <div class="column">
 <ul class="item-list" style="list-style-type:none">
 <a href="#/5" margin><li class="list-text">  After Effects Exports and File Sharing
-  <br> </li> </a>
-<a class="link-list" href="#/5"><li class="list-text">  Acquiring Media Assets  <br> </li> </a>
-<a href="#/5"><li class="list-text">  Tips, Tricks, and Tutorials  <br> </li> </a>
-<a href="#/5"><li class="list-text">  Contract End / Final Steps  <br> </li> </a>
+  <br><br> </li> </a>
+<a class="link-list" href="#/5"><li class="list-text">  Acquiring Media Assets  <br><br> </li> </a>
+<a href="#/5"><li class="list-text">  Tips, Tricks, and Tutorials  <br><br> </li> </a>
+<a href="#/5"><li class="list-text">  Contract End / Final Steps  <br><br> </li> </a>
 </ul>
 </div>
 </div>
