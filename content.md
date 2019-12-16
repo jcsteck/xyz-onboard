@@ -142,6 +142,7 @@ Anything deleted from the server will immediately be deleted. There is no trash 
 </p>
 ---
 ### Starting a New Project
+Projects and media can be accessed by any machine connected to the server. To keep things consistent, we all use/copy a template project folder, which has sub-folders where all of your projects, assets, media, exports, etc. will live.
 
 When starting a new project, simply copy the entire 2019_AL_Project Structure folder (with all sub-folders) and paste into the relevant folder for your client/project. The Folder structure is on the ALCC server (see image)
 
