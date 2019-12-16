@@ -128,7 +128,7 @@ All of these are under the Creative Cloud 2019 Builds.<br>
 For a seamless experience/file quality continuity/overall good time please do not update to a newer version without getting the official go-ahead from the XYZ producer.
 </p>
 ------
-### So XYZ operates using this “thing” called the server…
+### So XYZ operates using this “thing” called <p style="display:inline" class="fragment" data-fragment-index="1">the server…
 <br>
 <img id="gif-1" class="fragment" width="50%" data-src="media/img/tenor.gif">
 ------
