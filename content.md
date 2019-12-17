@@ -318,6 +318,11 @@ Example: 2019_0607_1415_107_GASS_BrandBook_RQ_v14A_BonaSera
   </tr>
 
 ------
+  ###Now it’s time to edit...
+  *Oops are you an animator? <a href="#/5" style="text-decoration: underline"> Skip to this slide. </a>
+
+
+------
 ###First Steps in Premiere Pro
 <img src="media/img/premiere-cc-logo-png-transparent.png" style="vertical-align: middle; max-width: 5%; margin:2%">
 
@@ -329,7 +334,7 @@ If it asks to move existing Media Cache database, say yes :)
 
 Go to File> Project Settings> Scratch Disks and browse again to select your project’s scratch folder 02_Media> Scratch
 
-<p style="display:inline" class="fragment">**NOTE You will need to set these to the correct location each time you switch projects <br><br>
+<p style="display:inline" class="fragment">****NOTE You will need to set these to the correct location each time you switch projects <br><br>
 
 ▼
 </p>
@@ -374,7 +379,19 @@ Create a new folder in 05_Outputs with the date and export there.
 <img id="gif-2" class="fragment" width="30%" data-src="media/img/img-7.png">
 
 ---
-###File Sharing
+###Project Sharing
 To pass a project, simply save, close the project, and inform the next person of the path to that project file on the server.
 
 Projects and media can be accessed by any machine connected to the server.
+------
+###After Effects Exports
+Export file in Prores.
+Convert Prores through encoder to mp4 & set bit rate to medium quality for internal reviews.
+If the export needs to become a gif, you can use the gifgun app or Photoshop..
+Media Encoder Presets can be found on the server here.
+<br>
+<img id="gif-2" class="fragment" data-fragment-index="1" width="30%" data-src="media/img/img-8.png">
+<br>
+<p class="fragment" data-fragment-index="1">
+▼
+</p>
