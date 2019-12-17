@@ -395,3 +395,20 @@ Media Encoder Presets can be found on the server here.
 <p class="fragment" data-fragment-index="1">
 ▼
 </p>
+---
+###Project Sharing
+To pass a project, simply save, close the project, and inform the next person of the path to that project file on the server.
+
+Projects and media can be accessed by any machine connected to the server.
+
+▼
+---
+
+###Animation File Prep 101
+Here is a link to go through a deck that we have shared with all art directors at A&L to help them prepare files for animation.
+
+<p class="fragment" data-fragment-index="1">
+►
+</p>
+------
+###Acquiring Media Assets
